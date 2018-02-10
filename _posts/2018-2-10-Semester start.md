@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring semester start
+title: Semester start
 ---
 
 Spring semester 2018 has started. This semester I am involved in two major activities:
